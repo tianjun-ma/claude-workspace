@@ -77,7 +77,7 @@ claude-workspace/
 
 1. **Clone** this repo into your Claude Code project directory:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/claude-workspace.git my-workspace
+   git clone https://github.com/tianjun-ma/claude-workspace.git my-workspace
    cd my-workspace
    ```
 
